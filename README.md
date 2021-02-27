@@ -1,6 +1,6 @@
 # Document Ready
 
-A [Tiny](https://bundlephobia.com/result?p=@document/ready) function that tells you when the document is ready.
+A [tiny](https://bundlephobia.com/result?p=@document/ready) function that tells you when the document is ready.
 
 ## Install
 
